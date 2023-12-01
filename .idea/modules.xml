@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BDpessoas-JDBC/BDpessoas-JDBC.iml" filepath="$PROJECT_DIR$/BDpessoas-JDBC/BDpessoas-JDBC.iml" />
       <module fileurl="file://$PROJECT_DIR$/IdeaProjects.iml" filepath="$PROJECT_DIR$/IdeaProjects.iml" />
     </modules>
   </component>

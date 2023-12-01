@@ -31,7 +31,8 @@ public class Main {
 
         String inserirTable = "insert into pessoa (id, nome, qtdAcesso, naturalidade)" +
                 "values (1, 'Laura', 2, 'Brasileira'),"+
-                "(2, 'Thiago', 4, 'Alemao')";
+                "(2, 'Thiago', 4, 'Alemao')," +
+                "(3, 'Lucas', 3, 'Brasileira')";
         Statement stI = conexao.createStatement();
         stI.executeUpdate(inserirTable);
         stI.close();

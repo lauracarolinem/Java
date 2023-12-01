@@ -7,6 +7,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="h2-2.2.222" level="project" />
+    <orderEntry type="library" name="h2-2.2.2221" level="project" />
   </component>
 </module>
